@@ -29,3 +29,8 @@ Should work on Unix, Mac, and Git for Windows.
 
 push and pull should only download and upload files with differing modification times.  
 In the future, think about how to add an ignore file.
+
+####Resources:  
+* [Drive REST API Reference](https://developers.google.com/drive/v3/reference/)
+* [cURL man page](http://curl.haxx.se/docs/manpage.html)
+* [What is find?](https://kb.iu.edu/d/admm)
